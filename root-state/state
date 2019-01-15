@@ -1,0 +1,9 @@
+{
+    "version": "4.7.0",
+    "watched": [
+        {
+            "path": "/Users/malbec/Documents/data/react-native-redux-crypto-tracker",
+            "triggers": []
+        }
+    ]
+}
